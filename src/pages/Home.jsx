@@ -7,7 +7,7 @@ function Home() {
         <img src={`${import.meta.env.BASE_URL}assets/images/background.png`} alt="Minecraft background" className="hero-bg" />
         <div className="hero-text">
           <h1>Prachi <span className="highlight">Pillai</span></h1>
-          <p>Senior Web Developer</p>
+          <p>Senior Data Analyst / Web Developer</p>
           <div className="hero-buttons">
             <a href={`${import.meta.env.BASE_URL}assets/resume.pdf`} target="_blank" className="start-btn" rel="noreferrer">Resume</a>
             <a href="https://www.linkedin.com/in/pillaiprachi/" target="_blank" className="start-btn" rel="noreferrer">LinkedIn</a>
